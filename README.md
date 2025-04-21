@@ -14,7 +14,7 @@ OnionSearch is a Python3 script that scrapes urls on different ".onion" search e
 
 ### Demo
 
-![](https://github.com/megadose/gif-demo/raw/master/onionsearch.gif)
+![](https://github.com/tempiltin/gif-demo/raw/master/onionsearch.gif)
 
 
 ## 💡 Prerequisite
@@ -46,7 +46,7 @@ OnionSearch is a Python3 script that scrapes urls on different ".onion" search e
 ### With Github
 
 ```bash
-git clone https://github.com/megadose/OnionSearch.git
+git clone https://github.com/tempiltin/OnionSearch.git
 cd OnionSearch/
 python3 setup.py install
 ```
