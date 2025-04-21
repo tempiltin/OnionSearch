@@ -1,6 +1,6 @@
 # OnionSearch
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
-megadose@protonmail.com
+tempiltin.uz@gmail.com
 
 📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
 
